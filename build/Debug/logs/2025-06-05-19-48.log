@@ -1,0 +1,4 @@
+[Critical]
+Flup3D encountered an error. More info below:
+Error Code: GRGL0001
+Details: Failed to initialize OpenGL graphics.
